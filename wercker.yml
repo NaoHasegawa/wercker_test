@@ -1,5 +1,5 @@
 box:
-  id: wercker-test
+  id: wercker_test
   tag: v1
 # Build definition
 build:
