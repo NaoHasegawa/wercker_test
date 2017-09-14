@@ -1,6 +1,4 @@
-box:
-  id: wercker_test
-  tag: v1
+box: wercker/android
 # Build definition
 build:
   # The steps that will be executed on build
